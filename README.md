@@ -1,6 +1,6 @@
 # 🃏 Piocher des cartes — Jeu interactif en ligne 🎲
 
-Une application web interactive permettant de 🎯 tirer, 🎴 afficher et 🗂️ gérer des 🃏 cartes depuis l'API publique [deckofcardsapi.com](https://deckofcardsapi.com/). Ce projet a été développé en ⚙️ JavaScript natif avec une mise en page soignée via TailwindCSS. Il illustre les fondamentaux de l'appel API, de la manipulation DOM et d'une UX front-end fluide et agréable. 🌐💡🎨
+Une application web interactive permettant de 🎯 tirer, 🎴 afficher et 🗂️ gérer des 🃏 cartes depuis l'API publique [deckofcardsapi.com](https://deckofcardsapi.com/). Ce projet a été développé en ⚙️ JavaScript natif avec une mise en page soignée via TailwindCSS. Il illustre les fondamentaux de l'appel API, de la manipulation DOM et d'une UX front-end fluide et agréable. 🌐
 
 ---
 
